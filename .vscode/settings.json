@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/SebastianHoumrani/Documents/Develeopment/RoboCorp/inhuman-insurance-inc-ais-robot/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
